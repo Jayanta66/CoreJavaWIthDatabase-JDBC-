@@ -7,8 +7,9 @@ import java.sql.*;
 requirements : 
 1.MySql Workbench
 
-2.Steps : Open MySql Workbench --> create database --> inset data into database --> find "database" option
- and choose "connect database" ---> store in vault --> enter password of root user --> default schema "mydata" and click "ok".
+2.Steps : Open MySql Workbench --> create database --> inset data into database ----> "Go to NewFolder and find mydata.sql then 
+copy all the code and past into the database."  --> find "database" option  --and choose "connect database" 
+---> store in vault --> enter password of root user --> default schema "mydata" and click "ok".
  
  3.Run Java code on Eclips.
 
