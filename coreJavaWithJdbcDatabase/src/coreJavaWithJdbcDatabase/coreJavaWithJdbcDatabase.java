@@ -2,6 +2,7 @@ package coreJavaWithJdbcDatabase;
 
 import java.sql.*;
 
+
 /*
 requirements : 
 1.MySql Workbench
